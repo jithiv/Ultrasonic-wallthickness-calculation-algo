@@ -20,3 +20,6 @@ This algorithm is based on academic research in ultrasonic signal processing and
 ```bash
 pip install -r requirements.txt
 python main.py
+
+## 📊 Filter Verification
+![Filter Verification Plot](filter_verification.png)
