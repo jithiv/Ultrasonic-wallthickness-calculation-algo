@@ -23,3 +23,6 @@ python main.py
 
 ## 📊 Filter Verification
 ![Filter Verification Plot](filter_verification.png)
+
+## 📊 Filter Verification
+![Filter Verification Plot](filter_verification.png)
